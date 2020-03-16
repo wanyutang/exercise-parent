@@ -1,0 +1,3 @@
+[submodule "exercise-springboot-jboss-tomcat"]
+	path = exercise-springboot-jboss-tomcat
+	url = https://github.com/wanyutang/exercise-springboot-jboss-tomcat.git
