@@ -9,4 +9,5 @@ exercise parent by submodule
 ```bash
 git submodule add https://github.com/wanyutang/exercise-springboot-jboss-tomcat.git
 git submodule init
+git submodule update --init --recursive
 ```
